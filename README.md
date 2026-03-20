@@ -32,8 +32,9 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **Model graph:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/e80e6270-9b70-4813-9b63-fa89f5025c24" />
+<img width="1328" height="1012" alt="image" src="https://github.com/user-attachments/assets/621b4f11-1671-443f-8c6c-b50848a685b0" />
 
+<img width="1328" height="1012" alt="image" src="https://github.com/user-attachments/assets/b7ce3c30-3833-4d98-a173-c94ff18c2c71" />
 
 
 
@@ -42,7 +43,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **Calculation:**
-<img width="976" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f49d2db-14a4-4351-ad09-99281aa70da5" />
+<img width="976" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca185f0b-bac8-4151-83ab-48b15bb51dfd" />
 
 
 
