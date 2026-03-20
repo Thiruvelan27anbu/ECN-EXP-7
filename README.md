@@ -22,9 +22,13 @@ fo = 1/2π√LC
 Frequency Response is a plot of output voltage or current of a resonance circuit as function of frequency. The response reaches a maximum value in the vicinity of the natural resonant frequency, and then drops again to zero as f becomes infinite .The 
  
 frequency response is shown in figure 2.The two additional frequencies  f 1 and f 2 are also indicated which are called half power frequencies. These frequencies locate those points on the curve at which the voltage response is 1/√2 or 0.707 times the maximum value. They are used to measure the band-width of the response curve. This is called the half – power bandwidth of the resonant circuit and is defined as:  ΒW =f2 - f1
+**CIRCUIT DIAGRAN**
 
-**CIRCU<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/890c7bb4-e4ff-474f-8dbf-73439e1fce6e" />
-IT DIAGRAM:**
+<img width="2226" height="2418" alt="image" src="https://github.com/user-attachments/assets/da2811aa-b1cb-43f7-a6c1-9a116e0a8712" />
+<img width="1424" height="1600" alt="image" src="https://github.com/user-attachments/assets/7b82198b-f182-429c-924f-b92fac834a24" />
+
+**IT DIAGRAM:**
+<img width="1600" height="1072" alt="image" src="https://github.com/user-attachments/assets/77edbb9e-2e36-4735-b925-fc05c26139a6" />
 
 
 **Model graph:**
@@ -38,7 +42,7 @@ IT DIAGRAM:**
 
 
 **Calculation:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb829108-096e-4e71-a3d2-42968f18f8dc" />
+<img width="976" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f49d2db-14a4-4351-ad09-99281aa70da5" />
 
 
 
@@ -56,7 +60,7 @@ IT DIAGRAM:**
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/95ab9329-55fc-4bf4-a06b-7975d959817a" />
+<img width="1347" height="1209" alt="image" src="https://github.com/user-attachments/assets/0993f9aa-1fbb-48fd-abdd-690c1cb2cbe0" />
 
 
 **RESULT:**
